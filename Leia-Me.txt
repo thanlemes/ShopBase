@@ -1,0 +1,1 @@
+Este é um projeto acadêmico simples de CRUD que fiz para um cliente.
